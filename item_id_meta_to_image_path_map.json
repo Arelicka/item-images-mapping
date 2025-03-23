@@ -105,6 +105,14 @@
         "6": "textures/blocks/quartz_block_bottom.png",
         "7": "textures/blocks/nether_brick.png"
     },
+    "85": {
+        "0": "textures/blocks/planks_oak.png",
+        "1": "textures/blocks/planks_spruce.png",
+        "2": "textures/blocks/planks_birch.png",
+        "3": "textures/blocks/planks_jungle.png",
+        "4": "textures/blocks/planks_acacia.png",
+        "5": "textures/blocks/planks_big_oak.png"
+    },
     "97": {
         "0": "textures/blocks/stone.png",
         "1": "textures/blocks/cobblestone.png",
